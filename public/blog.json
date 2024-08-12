@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "cover": "../src/assets/1.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Mrs.Setara",
+        "author_img": "../src/assets/boy1.png",
+        "posted_date": "2024-08-10",
+        "reading_time": 15,
+        "hashtags": ["#beginners","#programming"]
+    },
+    {
+        "id": "2",
+        "cover": "../src/assets/2.png",
+        "title": "Mina Mostofa",
+        "author": "John Smith",
+        "author_img": "../src/assets/boy2.png",
+        "posted_date": "2024-07-15",
+        "reading_time": 20,
+        "hashtags": ["#beginners","#programming"]
+    },
+    {
+        "id": "3",
+        "cover": "../src/assets/3.png",
+        "title": "Cooking 101",
+        "author": "Emily Johnson",
+        "author_img": "../src/assets/girl1.jpg",
+        "posted_date": "2024-06-22",
+        "reading_time": 10,
+        "hashtags": ["#beginners","#programming"]
+    }
+]
