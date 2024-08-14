@@ -16,9 +16,11 @@ function App() {
     setBookMarks(newBookMarks);
   }
 
-  const handelMarkAsRead = time => {
+  const handelMarkAsRead = (id, time) => {
     const newReadingTime = readingTime + time
     setReadingTime(newReadingTime)
+    const removeBookMark = bookMarks.filter(bookMark => bookMark.id !== id);
+    setBookMarks(removeBookMark);
   }
 
   return (
@@ -30,9 +32,9 @@ function App() {
           handelMarkAsRead={handelMarkAsRead}
           readingTime={readingTime}
         />
-        <BookMarks 
-        bookMarks={bookMarks} 
-        readingTime={readingTime}
+        <BookMarks
+          bookMarks={bookMarks}
+          readingTime={readingTime}
         />
       </div>
     </div>

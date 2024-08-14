@@ -2,7 +2,6 @@
 import PropTypes from 'prop-types'
 
 const BookMark = ({ bookMark }) => {
-  console.log(bookMark);
   return (
     <div>
       <div className='p-4'>

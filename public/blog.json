@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "cover": "../src/assets/1.jpg",
+        "cover": "https://i.ibb.co/cCbqyDB/flat-lay-desktop-with-notebook-pizza.jpg",
         "title": "How to get your first job as a self-taught programmer",
         "author": "Mrs.Setara",
         "author_img": "../src/assets/boy1.png",
@@ -11,7 +11,7 @@
     },
     {
         "id": "2",
-        "cover": "../src/assets/2.png",
+        "cover": "https://i.ibb.co/44x016P/makeup-brush-eyeglasses-cactus-plant-white-flower-bouquet-with-laptop-blue-background.jpg",
         "title": "Master Microsoft Power Platform and Become an In-Demand!",
         "author": "John Smith",
         "author_img": "../src/assets/boy2.png",
@@ -21,7 +21,7 @@
     },
     {
         "id": "3",
-        "cover": "../src/assets/3.png",
+        "cover": "https://i.ibb.co/jMkBZP0/flat-lay-desktop-with-laptop-cup-coffee.jpg",
         "title": "the name of a book, composition, or other artistic work the author and title of the book",
         "author": "Emily Johnson",
         "author_img": "../src/assets/girl1.jpg",
