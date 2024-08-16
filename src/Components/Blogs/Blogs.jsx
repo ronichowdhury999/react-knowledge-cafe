@@ -15,7 +15,7 @@ const Blogs = ({handelAddToBookMark,handelMarkAsRead}) => {
 
 
   return (
-    <div className="md:w-2/3">
+    <div className="md:w-2/3 text-white">
        {
         blogs.map(blog => <Blog 
           handelAddToBookMark={handelAddToBookMark} 

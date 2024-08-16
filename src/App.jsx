@@ -24,7 +24,7 @@ function App() {
   }
 
   return (
-    <div>
+    <div className='bg-gradient-to-r from-black to-gray-300'>
       <Header />
       <div className='md:flex max-w-7xl mx-auto px-4 mt-4 md:px-4 lg:px-0'>
         <Blogs
